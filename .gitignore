@@ -15,4 +15,11 @@ Debug
 *.db
 *.opendb
 
+# Python Byte-compiled / optimized / DLL files / Project
+__pycache__/
+*.py[cod]
+.idea
+
+
+
 
